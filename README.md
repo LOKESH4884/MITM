@@ -3,7 +3,8 @@
 man-in-the-middle attack (MITM) occurs when an attacker intercepts and possibly manipulates the communication between two parties who believe they are communicating directly. This deceptive intervention requires the attacker to position themselves within the same network as the intended victims to successfully deceive both parties involved in the communication.
 Bettercap is a powerful tool used in Man-in-the-Middle (MITM) attacks and network penetration testing. It's designed to intercept, manipulate, and analyze network traffic between two or more devices on the same network. Here are some of its capabilities:
 
-![image](https://github.com/LOKESH4884/MITM/assets/111216649/073d1286-699d-4b61-a726-822c50f84e95)
+![image](https://github.com/LOKESH4884/MITM/assets/111216649/d729faa7-98f9-4294-a50b-90c4a5c6ffa3)
+
 
 1.Packet Sniffing: Bettercap can capture network packets flowing between devices within the same network. This allows an attacker to intercept sensitive information such as usernames, passwords, or other data transmitted over the network.
 
